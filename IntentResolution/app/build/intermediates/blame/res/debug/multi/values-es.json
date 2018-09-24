@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\IntentResolution\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\IntentResolution\\app\\src\\main\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 52,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 68,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\2. Activities & Intents\\IntentResolution\\app\\src\\main\\res\\values-es\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 68,
+                        "endOffset": 123
+                    }
+                }
+            }
+        ]
+    }
+]
